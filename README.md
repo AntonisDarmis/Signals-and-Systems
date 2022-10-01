@@ -1,2 +1,2 @@
 # Signals-and-Systems
-Exercise for the signals and systems course
+Team exercise for the signals and systems course
